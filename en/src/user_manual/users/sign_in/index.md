@@ -7,19 +7,9 @@
 - [Add Loomio to your phone](#add-loomio-to-your-phone)
 - [Troubleshooting](#troubleshooting)
 
-## Create new user account
-
-The first time you visit Loomio you will go through a short process to set up a Loomio user account. 
-
-You won’t need a password and your computer will remember you in future.
-
 **Loomio user accounts are identified by email address** 
 
-You will need to provide an email address to make sure your Loomio user account is yours.
-
-> **Tip**: Use an email address that is uniquely yours, so other group members will easily recognize you and know that your comments are from you.  To avoid confusion, do not use shared and role based email addresses like info@... or ceo@... where more than one person can access the account.
-
-If you have any problem signing in to Loomio, you can always regain access with the email address you used when you set up your Loomio account.
+> Use an email address that is uniquely yours, do not use a shared address like info@.. or secretary@.. where more than one person can access the account.
 
 ## Invitation via email
 
@@ -29,7 +19,7 @@ You may receive an invitation to join a Loomio group via your email inbox:
 
 Click the **Accept invitation** button at the centre of the email.
 
-The link will take you to the internet browser on your computer, tablet or phone and open a page where you are invited to create an account.
+The link will take you to a page where you are invited to create an account.
 
 ![](create_account_1.png#width-80)
 
@@ -37,11 +27,9 @@ Type in your email address and click the **CONTINUE WITH EMAIL** button.
 
 *Alternatively, you can sign in with your Google account.*
 
-You will be taken to a page to create your Loomio user account.
-
 ![](new_to_loomio.png#width-80)
 
-Type in your name, so people in your group will recognise you.
+Enter you name as you would like it to appear next to comments in your group.
 
 Tick the check boxes to accept Loomio [Terms of Service](https://help.loomio.com/en/policy/terms/) and [Privacy Policy](https://help.loomio.com/en/policy/privacy/index.html). Click on the links to read these important documents which govern your use of Loomio.
 
@@ -62,47 +50,8 @@ Click **SIGN IN** to go to your new Loomio user account.
 That's it! You should now have an active Loomio user account and able to participate in your Loomio group.  
 
 When you return to Loomio, in most cases you browser will remember you and automatically sign you in.  
+
 However if you have reset your computer or are accessing Loomio from another device, you will be need to sign in again.  The simplest way to do this is to sign in via email and follow the prompts.
-
-## Sign in on phone or tablet
-
-If you use your phone to access Loomio, the sign in process is very similar.
-
-An invitation via email to participate in a Loomio group will look something like this:
-
-![](phone_thread_invite_1.jpg#width-50)
-
-The email subject line shows the name of the person inviting you and the group name on Loomio.
-
-In the email body, you will see the group image and logo, and a message from the person who has sent the invitation.
-
-Tap the **Accept invitation** button.
-
-If you have not previously signed into Loomio on your phone browser, you will be asked to sign in.
-
-Type in your email address and tap **CONTINUE WITH EMAIL**.
-
-![](phone_sign_in.jpg#width-50)
-
-On the next page tap **SIGN IN VIA EMAIL**. 
-
-![](phone_welcome_back.jpg#width-50)
-
-Loomio will send an email to your email address with a 6 digit code.  
-
-![](phone_check_email.jpg#width-50)
-
-Go to your email inbox and open the email from Loomio with subject 'Sign in to Loomio'.
-
-If the email does not arrive soon, check your spam folder.
-
-Copy the code from that email, go back to your internet browser screen and enter the code.
-
-![](phone_sign_in_2.jpg#width-50)
-
-Tap **SIGN IN**.
-
-The next time you receive an email from Loomio, just tap on the thread or decision title.  Your phone browser should remember you and take you straight in to Loomio.
 
 ## Returning to Loomio
 
@@ -187,18 +136,3 @@ Loomio uses your email address for user authentication.  Notifications of new th
 To fix this: Sign out then sign in again with the email address you normally use Loomio with.
 
 Why does this happen? This can happen because you participated in a poll when you were not signed in; Loomio creates a guest user, so you can participate without signing in. When you sign in later, we confirm the authenticity of your vote and connect it to your registered user.
-
-### Every time I visit Loomio I have to sign in!
-
-Ensure your browser is not deleting cookies. If you find that you're logged out of Loomio every time you visit, your browser may be configured to delete cookies when you close the browser window. Cookies are the way we recognize you when you use Loomio, so deleting them means you need to identify yourself (ie: sign in) every time you visit.
-
-Here are screenshots of what correct cookie settings look like:
-
-Chrome cookie settings
-![chrome cookie settings](chrome_cookie_settings.png)
-
-Firefox cookie settings
-![firefox cookie settings](firefox_cookie_settings.png)
-
-Safari cookie settings
-![safari cookie settings](safari_cookie_settings.png)
