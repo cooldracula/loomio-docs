@@ -7,9 +7,9 @@
 - [Add Loomio to your phone](#add-loomio-to-your-phone)
 - [Troubleshooting](#troubleshooting)
 
-## Create a new
-**Loomio user accounts are identified by email address** 
 
+
+> **Loomio user accounts are identified by email address**
 > Use an email address that is uniquely yours, do not use a shared address like info@.. or secretary@.. where more than one person can access the account.
 
 ## Invitation via email
