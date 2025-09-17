@@ -10,7 +10,7 @@
   - [Consent process](guides/consent_process/index.md)
   - [Consensus process](guides/consensus_process/index.md)
   - [Simple decision process](user_manual/polls/decisions/index.md)
- 
+
 - [Groups](user_manual/groups/intro_to_groups/index.md)
   - [Starting a group](user_manual/groups/starting_a_group/index.md)
   - [Group settings](user_manual/groups/settings/index.md)
@@ -29,6 +29,7 @@
   - [Using threads](user_manual/threads/navigating_threads/index.md)
   - [Formatting](user_manual/threads/thread_admin/index.md)
   - [Tasks](user_manual/threads/thread_admin/tasks.md)
+  - [Invite only](user_manual/threads/invite_only/index.md)
   - [Thread examples](user_manual/threads/examples/index.md)
 
 - [Proposals and polls](user_manual/polls/intro_to_decisions/index.md)
@@ -38,7 +39,7 @@
   - [Settings](user_manual/polls/starting_proposals/index.md)
   - [Invite to vote](user_manual/polls/inviting_people/index.md)
   - [Outcomes](user_manual/polls/outcomes/index.md)
-  - [Custom templates](user_manual/polls/poll_templates/index.md)
+  - [Poll templates](user_manual/polls/poll_templates/index.md)
 
 - [Your profile](user_manual/users/user_profile/index.md)
   - [Notifications](user_manual/users/email_settings/index.md)
