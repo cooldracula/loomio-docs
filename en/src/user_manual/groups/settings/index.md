@@ -4,7 +4,6 @@
 - [Group profile](#group-profile)
 - [Privacy](#privacy)
 - [Permissions](#permissions)
-- [Threads](#thread-settings)
 
 In group settings you can change group name, add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings.
 
@@ -182,23 +181,3 @@ This allows an admin to edit content written by a member.  Use this if you need 
 This is an additional permission setting available in __subgroups__.
 
 In closed subgroups you can allow members of the parent group to see discussions within the subgroup.  This setting is used to enable transparency of the discussions and decisions taking place within a subgroup to be visible to members of the parent group.   For example, a board that wishes to operate transparently within the organization.
-
----
-
-## Thread settings
-
-You can change the default settings for the way threads are displayed at the group level.  
-
-![](group_settings_threads.png#width-90)
-
-### Oldest or Newest first
-
-Threads set to **Oldest** display comments top to bottom from oldest to newest.  New comments start at the bottom of the thread.
-
-You can reverse thread view with **Newest** so that the new comments start at the top of the thread.  This is useful for 'wall' threads, for example a thread used for posting regular reports.
-
-### Flat or Nested replies
-
-The thread can also be set to display chronologically, as a **flat list**, where all activity is displayed in the order that it happened, or as **nested replies** of one or two levels. 
-
-Nested replies keeps replies to comments together, and is very helpful to easily see mini-discussions within an overall thread.
