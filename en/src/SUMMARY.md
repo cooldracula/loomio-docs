@@ -79,7 +79,6 @@
 
 # Guides
 
-# Facilitation
 - [The Facilitator's Guide to Loomio](guides/facilitators_guide/index.md)
   - [Preparation](guides/facilitators_guide/preparation/index.md)
   - [Commencing](guides/facilitators_guide/commencing/index.md)
@@ -87,7 +86,6 @@
   - [Concluding](guides/facilitators_guide/concluding/index.md)
   - [Ongoing Practice](guides/facilitators_guide/ongoing_practice/index.md)
 
-# Governance
 - [Good Governance Guide to Loomio](guides/board_processes/index.md)
   - [Prepare for a meeting](guides/board_processes/meeting.md)
   - [Facilitating discussions](guides/board_processes/facilitating_discussions.md)
@@ -95,12 +93,3 @@
   - [Governance practices](guides/board_processes/practices.md)
   - [Record keeping](guides/board_processes/admin.md)
   - [Introducing Loomio to your board](guides/board_processes/introduce.md)
-- [AGM and General Assembly](guides/virtual_agm/index.md)
-- [Board meetings](guides/virtual_board_meetings/index.md)
-
-# Success on Loomio
-- [Let’s get your team working in Loomio](guides/engage-group.md)
-- [4 patterns of successful groups](guides/four-patterns-of-success.md)
-- [5 ways to use threads](guides/5_ways_to_use_threads/index.md)
-- [Loomio and other tools](guides/mapping-tools.md)
-- [Best of our blog](guides/practical_examples.md)
