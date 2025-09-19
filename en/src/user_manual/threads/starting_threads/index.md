@@ -8,14 +8,6 @@ People can reply to your thread via email and their comments will appear in the 
 
 As with an email, a thread may be a simple question, or a more detailed introduction to a topic with links or files attached for background information.
 
-*On this page*
-- [New thread](#new-thread)
-- [Set up thread](#set-up-thread)
-- [Content tab](#content-tab)
-- [Settings tab](#settings)
-- [Thread privacy](#thread-privacy)
-- [Invite-only thread](#invite-only-thread)
-
 ## New thread
 
 Find the **New thread** button on your Loomio group page to start a new thread.
@@ -27,17 +19,6 @@ You can start a thread within your Loomio group or any subgroup.
 You can also start a thread from the sidebar menu.
 
 ![](thread_new_sidebar.png)
-
-## Set up thread
-
-When you start a new thread, you will see two tabs:
-
-- **Content** to write content for your thread.
-- **Settings** to configure the thread display.
-
-![start new thread](thread_start_new_2.png)
-
-## Content tab
 
 ### Group
 Check the name of the group or subgroup is correct for your thread.  Anyone in this group will be able to see the thread. You can also start the thread in another group or as an 'Invite-only' thread (no group).
@@ -61,27 +42,3 @@ Use thread context to introduce the topic and frame the conversation or decision
 
 The context will always stay at the top of the thread and you can update it at any time as the discussion progresses.  When the discussion ends, update the context with the outcome.
 
-## Settings
-The Settings tab contains some additional options.  These settings change the thread for everyone.
-
-![](thread_settings.png)
-
-### How to display replies?
-You can choose comments to be displayed as:
-
-**Flat list** - Comments and all thread activity is displayed chronologically, one after the other.
-
-**Nest replies - first reply only** - Replies to comments are indented under the original comment.
-
-**Two levels of nested replies** - Replies to replies are indented at most two times.
-
-## Thread privacy
-If your group privacy is **Closed** or **Secret** then your threads will be **private**. Private means that only members of the group or guests you have invited are able to view the thread.
-
-![](thread_private.png)
-
-If your group is "Open" then the threads in your group will be public, meaning that anyone on the internet can potentially see the thread.  Public threads are indexed by search engines such as Google, so people may find the thread in a search.
-
-![](thread_public.png)
-
-See [Group privacy](https://help.loomio.com/en/user_manual/groups/settings/index.html#privacy) for more info about privacy settings for your group.
