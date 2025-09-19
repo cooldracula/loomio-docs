@@ -16,6 +16,7 @@ You can start a thread within your Loomio group or any subgroup.
 
 ![](thread_new.png)
 
+![](thread_start_new_2.png)
 
 ### Group
 Check the name of the group or subgroup is correct for your thread.  Anyone in this group will be able to see the thread. You can also start the thread in another group or as an 'Invite-only' thread (no group).
