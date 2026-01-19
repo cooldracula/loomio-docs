@@ -37,6 +37,7 @@
   - [Proposals](user_manual/polls/proposals/index.md)
   - [Polls](user_manual/polls/proposal_types/index.md)
   - [Quorum](user_manual/polls/quorum/index.md)
+  - [Vote Share Requirements](user_manual/polls/vote_share_requirements/index.md)
   - [Meeting polls](user_manual/polls/meeting_polls/index.md)
   - [Settings](user_manual/polls/starting_proposals/index.md)
   - [Invite to vote](user_manual/polls/inviting_people/index.md)
