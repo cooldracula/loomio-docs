@@ -1,26 +1,26 @@
 # Notifying people
 
-Loomio includes tools to help you notify people about activity within Loomio. For example; when you start a new thread discussion, require a response, invite people to take an action or just want to make sure people are alerted to new information.
+Loomio includes tools to help you notify people about activity within Loomio. For example; when you start a new discussion, require a response, invite people to take an action or just want to make sure people are alerted to new information.
 
 A notification in Loomio sends an email to the people you notify.  Notifications also appear under the bell icon at the top right of Loomio.
 
 Notification needs vary from group to group, and often vary over time as people become more familiar with Loomio as part of their daily work.  Consider how people in your group want to be notified, and try to strike a balance of letting people know about new activity in Loomio without overwhelming their inbox.
 
 *On this page*
-- [Notify about new thread](#notify-about-new-thread)
+- [Notify about new discussion](#notify-about-new-discussion)
 - [Mentioning](#mentioning)
-- [Invite to thread](#invite-to-thread)
-- [Notify about thread changes](#notify-about-thread-changes)
-- [Who has seen or been notified about the thread?](#who-has-seen-or-been-notified-about-the-thread)
+- [Invite to discussion](#invite-to-discussion)
+- [Notify about discussion changes](#notify-about-discussion-changes)
+- [Who has seen or been notified about the discussion?](#who-has-seen-or-been-notified-about-the-discussion)
   - [Seen by](#seen-by)
-  - [Notified (Thread notification history)](#notified-thread-notification-history)
+  - [Notified (Discussion notification history)](#notified-discussion-notification-history)
   - [Comment notification history](#comment-notification-history)
   - [Poll notification history](#poll-notification-history)
 - [Subscribe](#subscribe)
 
-## Notify about new thread
+## Notify about new discussion
 
-When you start a thread, you can choose to notify all members of a group, or just some of them. Notify sends the thread to specific people via email.
+When you start a discussion, you can choose to notify all members of a group, or just some of them. Notify sends the discussion to specific people via email.
 
 You can also invite guests to the thread.  Guests can see and participate in the thread, but cannot see other threads in your group that they have not been invited to.
 
@@ -32,7 +32,7 @@ You can type in the first few letters of the name of a member of your group, and
 
 ![](thread_notify_user.png)
 
-You can type or paste in a person's email address.  This is useful to invite a 'guest' to the thread.  Guests can see the thread and all comments and polls within the thread, however they cannot see any other threads of your group.  You can remove a guest from a thread.
+You can type or paste in a person's email address.  This is useful to invite a 'guest' to the discussion.  Guests can see the discussion and all comments and polls within the discussion, however they cannot see any other discussions of your group.  You can remove a guest from a discussion.
 
 If the person is a member of your Loomio group they will receive the notification as usual.
 
@@ -40,11 +40,11 @@ If the person is a member of your Loomio group they will receive the notificatio
 
 **Do not notify anyone**
 
-You can also choose not to notify anyone about your thread.  If the thread is started in a Loomio group, then all members of the group will be able to see and participate in the thread.  Members will be alerted that the thread has started through the daily **Catch up summary email** if enabled.
+You can also choose not to notify anyone about your discussion.  If the discussion is started in a Loomio group, then all members of the group will be able to see and participate in the discussion.  Members will be alerted that the discussion has started through the daily **Catch up summary email** if enabled.
 
-A Loomio thread offers a way for you to share information and work transparently - to "work out loud".
+A Loomio discussion offers a way for you to share information and work transparently - to "work out loud".
 
-By not notifying people you are saving a few emails from their in-box, and members of your group can stay informed of progress of the thread through the 'Catch up summary email' or by signing into Loomio.
+By not notifying people you are saving a few emails from their in-box, and members of your group can stay informed of progress of the discussion through the 'Catch up summary email' or by signing into Loomio.
 
 
 ## Mentioning
@@ -78,9 +78,9 @@ Reactions send a notification within Loomio, but do not send an email.
 
 ![](reaction.png)
 
-## Invite to thread
+## Invite to discussion
 
-You can invite people to the thread at any time after the thread has started.
+You can invite people to the discussion at any time after the discussion has started.
 
 ![](thread_invite_icon.png)
 
@@ -92,22 +92,22 @@ To add people individually:
 
 ![](thread_invite.png)
 
-You can remove a person from the thread by clicking the 3 dots menu to the right of their name and selecting **Remove from thread**.
+You can remove a person from the discussion by clicking the 3 dots menu to the right of their name and selecting **Remove from discussion**.
 
 #### Invite a guest
-You can invite any person outside your group to see and participate in a thread.
+You can invite any person outside your group to see and participate in a discussion.
 
-Guests can not see any other threads in your group - only the thread they have been specifically invited to.
+Guests can not see any other discussions in your group - only the discussion they have been specifically invited to.
 
 Invite a guest with their email address.
 
 ![](invite_guest.png)
 
-## Notify about thread changes
+## Notify about discussion changes
 
-Notify people to let them know when a thread has been updated.
+Notify people to let them know when a discussion has been updated.
 
-The thread can be updated at any time by adding/removing text in the thread context.
+The discussion can be updated at any time by adding/removing text in the discussion context.
 
 When updated, you can write a comment in **What's changed?** describing the change.
 
@@ -117,31 +117,31 @@ The thread edit comment will appear in the thread.
 
 ![](thread_edit_comment.png)
 
-## Who has seen or been notified about the thread?
+## Who has seen or been notified about the discussion?
 
-At the top of each thread is **Seen by** and **Notified**.
+At the top of each discussion is **Seen by** and **Notified**.
 
-These features help you track engagement in a thread or poll.  Although someone may not yet have commented in the thread, you can check to see if they have seen the thread, who has been notified, and if the notification has been read or the email has been opened.
+These features help you track engagement in a discussion or poll.  Although someone may not yet have commented in the discussion, you can check to see if they have seen the discussion, who has been notified, and if the notification has been read or the email has been opened.
 
 ![](thread_engagement.png)
 
 ### Seen by
 
-Click on **Seen by** to see who has seen the thread and when.
+Click on **Seen by** to see who has seen the discussion and when.
 
 ![](thread_seenby.png)
 
-### Notified (Thread notification history)
+### Notified (Discussion notification history)
 
-Click on **Notified** to see who has been notified about the thread
+Click on **Notified** to see who has been notified about the discussion
 
 The &#10003; indicates that the notification has been read or the email has been opened.
 
-In **Thread notification history** you can see all notifications for that thread, including the thread invitation, and mentions and replies within comments.
+In **Discussion notification history** you can see all notifications for that discussion, including the discussion invitation, and mentions and replies within comments.
 
 ![](thread_notified.png)
 
-You can also access thread notification history from within the thread. Go to the thread 3 dot (**...**) menu.
+You can also access discussion notification history from within the discussion. Go to the discussion 3 dot (**...**) menu.
 
 ![](thread_notification_history.png)
 
@@ -170,6 +170,6 @@ The &#10003; indicates that the notification has been read or the email has been
 
 ## Subscribe
 
-Click **Subscribe** to watch the thread for any activity.  All further activity will be emailed to you immediately. If it is an active thread, you may receive many emails.
+Click **Subscribe** to watch the discussion for any activity.  All further activity will be emailed to you immediately. If it is an active discussion, you may receive many emails.
 
 ![](thread_interact.png)

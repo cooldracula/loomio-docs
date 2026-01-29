@@ -1,17 +1,17 @@
-# Invite-only threads
-An ‘invite-only’ thread is useful when you want to invite particular people to a private discussion.
+# Direct discussions
+A 'direct' discussion is useful when you want to invite particular people to a private discussion.
 
-An invite-only thread does not belong to a group. Invited people do not need to be a member of your Loomio group.
+A direct discussion does not belong to a group. Invited people do not need to be a member of your Loomio group.
 
-With **Invite** you control who can see and participate in the thread.
+With **Invite** you control who can see and participate in the discussion.
 
-Invite-only threads have all of the benefits of Loomio threads and are often used in place of subgroups.
+Direct discussions have all of the benefits of Loomio discussions and are often used in place of subgroups.
 
 ![](thread_invite_only.png)
 
-Your invite-only threads can be found under **Invite-only threads** in the sidebar menu.
+Your direct discussions can be found under **Direct** in the sidebar menu.
 
 ![](sidebar_invite_only.png)
 
-## Contacting someone via an invite-only thread
-An invite only thread can be a useful way to contact another member of your group privately.
+## Contacting someone via a direct discussion
+A direct discussion can be a useful way to contact another member of your group privately.

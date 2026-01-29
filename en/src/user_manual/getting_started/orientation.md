@@ -8,12 +8,12 @@ _On this page_
 - [Side bar](#side-bar)
 - [Notifications](#notifications)
 - [Finding information quickly](#finding-information-quickly)
-- [Threads](#threads)
+- [Discussions](#discussions)
 - [Polls](#poll-tab)
 
 ## How Loomio works
 
-Loomio is designed to help your group come together, discuss in threads and use polls to make decisions.  It has a simple structure of three main elements; Group, Threads and Polls. 
+Loomio is designed to help your group come together, discuss in discussions and use polls to make decisions.  It has a simple structure of three main elements; Group, Discussions and Polls. 
 
 ### Group
 
@@ -25,15 +25,15 @@ A Loomio group is a safe place for your organization to meet, discuss and make d
 
 Your group home page is the first place you see when you arrive. It contains a title, an image to represent the group, and some text to introduce the group: its purpose, the work you will do, and any other information to help group members participate.
 
-### Threads
+### Discussions
 
-Threads are where you share information, discuss, and make decisions.
+Discussions are where you share information, discuss, and make decisions.
 
 ![](Threads.png#width-50)
 
-Threads are used for many purposes; to prepare for a meeting, discuss matters, share reports, ask questions, vote on proposals, approve actions, and so on. It's also where your group can develop a shared understanding of important issues.
+Discussions are used for many purposes; to prepare for a meeting, discuss matters, share reports, ask questions, vote on proposals, approve actions, and so on. It's also where your group can develop a shared understanding of important issues.
 
-Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organization’s discussions and decisions.
+Discussions keep everything about a topic in one place. Over time you'll create a useful archive of your organization's discussions and decisions.
 
 ### Polls
 

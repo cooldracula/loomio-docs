@@ -1,12 +1,12 @@
 # Formatting
 
-When starting a thread, poll or writing a comment, you will see the formatting bar under the text. 
+When starting a discussion, poll or writing a comment, you will see the formatting bar under the text.
 
 Hover the mouse or cursor over each item for the name of each tool.
 
 ![](thread_format_bar.png)
 
-Use the formatting tools to add information, emphasis and structure to your thread; so as to communicate clearly and encourage people to participate in the thread.
+Use the formatting tools to add information, emphasis and structure to your discussion; so as to communicate clearly and encourage people to participate in the discussion.
 
 ## Attach file
 
@@ -48,7 +48,7 @@ To add a link for a Google doc:
 
 A preview of the doc will appear under the text space. You can remove this if you want.
 
-Now, anyone with access to your Loomio thread and permission to view the doc can open and read it.
+Now, anyone with access to your Loomio discussion and permission to view the doc can open and read it.
 
 ![](format_link.png)
 
@@ -62,11 +62,11 @@ Emojis are great way to lighten the mood and encourage people.  Select the emoji
 
 ## Headings
 
-H1, H2, H3 headings can help you structure your thread or comment.
+H1, H2, H3 headings can help you structure your discussion or comment.
 
 Select the text to mark as a heading and click on the heading format tool.
 
-If a heading is used in a comment, the comment will automatically be pinned to the thread timeline.
+If a heading is used in a comment, the comment will automatically be pinned to the discussion timeline.
 
 ![](format_heading.png)
 
@@ -135,7 +135,7 @@ Quote adds emphasis to your text, and can be useful to draw attention to an inst
 
 ## Code block
 
-Typically used to show code in text, code block formatting is also available to help you distinguish text in your thread.
+Typically used to show code in text, code block formatting is also available to help you distinguish text in your discussion.
 
 ![](thread_codeblock.png)
 
@@ -147,7 +147,7 @@ Use the divider to draw a horizontal line to separate sections.
 
 ## Add table
 
-Add a table to your thread. 
+Add a table to your discussion. 
 
 Additional tools are available to add/remove columns and rows.
 
@@ -165,23 +165,23 @@ Click **WYSIWYG** to return to the formatting tools. This will convert any text 
 
 ***PREVIEW*** shows how your text will appear, but without converting.
 
-## Close thread
+## Close discussion
 
-To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
+To keep the list of discussions on your group page relevant, you can close discussions which people don't need to see.
 
 ![](close_thread.png)
 
-To view closed threads, first navigate to the relevant **group page**. You will need to use the drop-down just under the Threads tab to change the thread filter from its default of **open**.
+To view closed discussions, first navigate to the relevant **group page**. You will need to use the drop-down just under the Discussions tab to change the discussion filter from its default of **open**.
 
 ![](sort_threads_on_group_page.png)
 
-Choose "closed" to view all your closed threads in the thread filter.
+Choose "closed" to view all your closed discussions in the discussion filter.
 
 ![](closed_threads.png)
 
-### Re-open thread
+### Re-open discussion
 
-Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#thread-options-and-organizing-threads) for a depiction.
+Re-opening a closed discussion is done from within the discussion's page – again, the three horizontal dots (**⋯**). See [organizing discussions](#discussion-options-and-organizing-discussions) for a depiction.
 
 
 

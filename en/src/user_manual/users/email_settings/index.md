@@ -1,6 +1,6 @@
 # Notifications
 
-The notifications you receive from Loomio help you stay in touch with activity in your Loomio groups, be alerted to new threads, polls, outcomes and when someone wants to get your attention.
+The notifications you receive from Loomio help you stay in touch with activity in your Loomio groups, be alerted to new discussions, polls, outcomes and when someone wants to get your attention.
 
 The default notification settings are intended to alert you to important activity in your group without overwhelming your email in-box.  
 
@@ -12,7 +12,7 @@ _On this page_
 - [Email notifications](#email-notifications)
 - [User email settings](#user-email-settings)
 - [Group email settings](#group-email-settings)
-- [Thread email settings](#thread-email-settings)
+- [Discussion email settings](#discussion-email-settings)
 - [Turn off all notifications](#turn-off-all-notifications)
 
 ## Overview video
@@ -34,15 +34,15 @@ Loomio sends emails to keep you updated on the activity in your groups. The defa
 
 Emails we send out include:
 
-- A daily summary called **Yesterday on Loomio**. This includes activity from all your groups and threads, but only content which you have not read yet.
+- A daily summary called **Yesterday on Loomio**. This includes activity from all your groups and discussions, but only content which you have not read yet.
 
 - **Mention** and **Reply** notifications. If someone replies to a comment you wrote, or they write a comment and mention you in it, you'll get an email with what they wrote.
 
-- Invitations to threads and notification of polls or proposals. If someone wants to notify the group about a new decision or discussion thread, they can select everyone or just some people in the group to notify. Also be aware of **poll closing soon** and **outcome** notifications.
+- Invitations to discussions and notification of polls or proposals. If someone wants to notify the group about a new decision or discussion, they can select everyone or just some people in the group to notify. Also be aware of **poll closing soon** and **outcome** notifications.
 
-- Thread updates. If **subscribe on participation** is checked, then after you comment or vote within a thread, you'll be emailed any further activity.
+- Discussion updates. If **subscribe on participation** is checked, then after you comment or vote within a discussion, you'll be emailed any further activity.
 
-For any thread-specific email (that's most except the Yesterday on Loomio email) you can reply directly from your email and your replies will be posted into the Loomio thread.
+For any discussion-specific email (that's most except the Yesterday on Loomio email) you can reply directly from your email and your replies will be posted into the Loomio discussion.
 
 ## User email settings
 

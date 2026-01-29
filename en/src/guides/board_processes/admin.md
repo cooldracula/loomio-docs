@@ -11,37 +11,37 @@ Transform your board:
 *“Our board group has been particularly transformative, enabling continuous governance, improving response times and increasing our agility, resilience and sustainability… Loomio saves us thousands of pounds every year”*
 - Austen Cordasco Co-operative Assistance Network Limited (CAN) Business support services , United Kingdom
 
-Let's look at how to organize work, administer threads, keep data safe and store records in Loomio.
+Let's look at how to organize work, administer discussions, keep data safe and store records in Loomio.
 
-## Administering threads
+## Administering discussions
 
-There is a range of features in Loomio to help you administer threads accessible from the drop down menu to the right of the thread.
+There is a range of features in Loomio to help you administer discussions accessible from the drop down menu to the right of the discussion.
 
-Keep the thread list current by using:
+Keep the discussion list current by using:
 
-- **Pin thread** to keep important threads at the top of the list
-- **Edit thread** to change thread title or update thread context
-- **Move to group** when you want to move a thread to another group or subgroup, or to an archive group. 
-- **Close thread** to remove the thread from the list.  Closed threads are easily available under the thread drop down menu and from the search bar, and can be reopened at any time.
-- **Delete thread** when you do not want to keep a record of the thread.  Note that deleted threads can not be un-deleted.
+- **Pin discussion** to keep important discussions at the top of the list
+- **Edit discussion** to change discussion title or update discussion context
+- **Move to group** when you want to move a discussion to another group or subgroup, or to an archive group.
+- **Close discussion** to remove the discussion from the list.  Closed discussions are easily available under the discussion drop down menu and from the search bar, and can be reopened at any time.
+- **Delete discussion** when you do not want to keep a record of the discussion.  Note that deleted discussions can not be un-deleted.
 
 ![](thread_admin.png#width-90)
 
 ## Category tags
 
-Category tags are a great way to label threads so they can be easily found. Set tags and apply to each thread  - try to be consistent.
+Category tags are a great way to label discussions so they can be easily found. Set tags and apply to each discussion  - try to be consistent.
 
 Common board tags include: Administration, AGM, Board meeting, Report, Finance, Legal, Members, Minutes, Planning, Policy, Resolution, Constitution, General meeting, Strategy.
 
-Group members can search for threads by tag under the **tags** drop down menu.
+Group members can search for discussions by tag under the **tags** drop down menu.
 
 ![](thread_tags.png#width-90)
 
-## Maintaining the thread topic
+## Maintaining the discussion topic
 
-Threads work best for everyone when you can keep the thread on a single topic. 
+Discussions work best for everyone when you can keep the discussion on a single topic.
 
-If a new topic is introduced in the middle of a thread, you can select and move specific comments to another thread, or start a new thread.
+If a new topic is introduced in the middle of a discussion, you can select and move specific comments to another discussion, or start a new discussion.
 
 ![](thread_comments_move.png#width-90)
 
