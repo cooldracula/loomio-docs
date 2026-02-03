@@ -11,7 +11,7 @@ An introduction to Loomio, outlining key concepts of how your organization meet,
 
 Learn how to start, configure and administer a Loomio group or subgroup as an administrator. 
 
-## [Threads](user_manual/threads/starting_threads/index.md)
+## [Discussions](user_manual/threads/starting_threads/index.md)
 
 Everything you need to know about starting discussions, notifiying people, and keeping everything organized.
 

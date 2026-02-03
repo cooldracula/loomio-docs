@@ -1,25 +1,25 @@
-# Intro to Threads
+# Intro to Discussions
 
-Loomio threads are where you can share information, discuss topics, and make decisions with your group.  People participate by posting comments and replies.
+Loomio discussions are where you can share information, discuss topics, and make decisions with your group.  People participate by posting comments and replies.
 
 - All info about a topic is in one easily accessible place.
-- People can reply via email and their comments appear in the thread.
-- You can see who has read the thread and who needs a nudge.
+- People can reply via email and their comments appear in the discussion.
+- You can see who has read the discussion and who needs a nudge.
 - There is a record of discussion you can easily find again.
 
-Threads have a wide range of uses - from a general discussion forum to running specific work-flow and decision-making processes.
+Discussions have a wide range of uses - from a general discussion forum to running specific work-flow and decision-making processes.
 
 For example, you may frame a discussion on a particular topic, invite people to contribute their thoughts and share information, and facilitate progress towards an agreed outcome.
 
 Or you may invite people to participate in a particular decision, using a consent or advice decision-making process.
 
-Threads can also contain polls and proposals to help progress a discussion to an outcome. As people comment in the thread and vote in polls, a thread timeline builds so you can easily find key milestones.
+Discussions can also contain polls and proposals to help progress a discussion to an outcome. As people comment in the discussion and vote in polls, a discussion timeline builds so you can easily find key milestones.
 
 ![](intro_to_thread.png)
 
-### Using threads
+### Using discussions
 
-Here are some common uses of threads:
+Here are some common uses of discussions:
 
 ## Boards and Governance
 
@@ -51,8 +51,8 @@ Here are some common uses of threads:
 
 **Explore ideas** - Share thoughts and invite discussion about a concern you notice, or an improvement that can be made.
 
-**Advice, Consent and Generative decision making** - Prepare, propose, clarify, respond to reactions and objections, agree and implement - all within a Loomio thread.
+**Advice, Consent and Generative decision making** - Prepare, propose, clarify, respond to reactions and objections, agree and implement - all within a Loomio discussion.
 
-See [Example threads](https://help.loomio.com/en/user_manual/threads/examples/index.html) if you're looking for inspiration.
+See [Example discussions](https://help.loomio.com/en/user_manual/threads/examples/index.html) if you're looking for inspiration.
 
 

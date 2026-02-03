@@ -25,7 +25,7 @@ See our guides for [Advice process](https://help.loomio.com/en/guides/advice_pro
 
 ## Using templates
 
-When you next open a thread in Loomio, or start a new poll, you have the option to run a predefined Loomio proposal template. 
+When you next open a discussion in Loomio, or start a new poll, you have the option to run a predefined Loomio proposal template. 
 
 ![](proposal_templates_list.png)
 

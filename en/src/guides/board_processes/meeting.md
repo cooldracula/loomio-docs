@@ -26,25 +26,25 @@ Actions:
 ![](meeting_prep.png#width-90)
 
 ### On Loomio
-Use a Loomio **Thread** to prepare for your meeting:
+Use a Loomio **Discussion** to prepare for your meeting:
 * remind members about the meeting coming up,
 * invite comment about the most important things to focus on,
 * summarize actions from the previous meeting and ask for an update.
 
 ## Agenda and notify
 
-Announce the meeting with a clear agenda. Attach papers, link to key documents and notify members. 
+Announce the meeting with a clear agenda. Attach papers, link to key documents and notify members.
 
 This helps everyone prepare for the meeting, by reading the materials and thinking about topics of discussion and the decisions to be made.  Members are then more likely to arrive in context and ready for the meeting.
 
-Actions: 
+Actions:
 - prepare agenda, documents, materials and board papers,
 - notify members of meeting and send materials.
 
 ![](meeting_notify.png#width-90)
 
 ### On Loomio
-Use a Loomio **Thread** to prepare for your board meeting:
+Use a Loomio **Discussion** to prepare for your board meeting:
 * state details of meeting,
 * attach or link agenda, documents and other meeting materials,
 * invite members with a notification,
