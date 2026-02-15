@@ -35,29 +35,25 @@ See our guides for [Advice process](https://help.loomio.com/en/guides/advice_pro
 
 ## Proposal templates
 
-**[Sense check](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check)** To ask people for feedback, questions and concerns before moving to a decision.
+**[Sense check](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check)** See if you're on the right track before committing to a decision.
 
 **[Advice](https://help.loomio.com/en/user_manual/polls/proposals/index.html#advice-proposal)** Seek advice on a decision you need to make.
 
-**[Consent](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal)** Make a decision that is ‘safe to try’, without objections.
+**[Consent](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal)** Proceed unless someone raises an objection.
 
 **[Consensus](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consensus-proposal)** Reach collective agreement with everyone involved.
 
 ## Poll templates
 
-**[Simple poll](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#simple-poll)** A simple poll to ask people which option or options they approve.
+**[Choose](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#simple-poll)** Find the most popular option.
 
-**[Score poll](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#score-poll)** Find the degree of support for each option.
+**[Score](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#score-poll)** Measure the level of support for each option.
 
-**[Dot vote](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#dot-vote)** Find degree of support by asking people to allocate a budget of points to options. 
+**[Allocate](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#dot-vote)** Reveal priorities when there are trade-offs.
 
-**[Ranked choice](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#ranked-choice)** Rank a list of options in order of preference — useful for elections.
+**[Rank](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#ranked-choice)** Find the group's order of preference.
 
-## Meeting poll templates
-
-**[Time poll](https://help.loomio.com/en/user_manual/polls/meeting_polls/index.html#time-poll)** Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
-
-**[Opt-in](https://help.loomio.com/en/user_manual/polls/meeting_polls/index.html#opt-in)** Find volunteers or participants to help or join a working group.
+**[Time poll](https://help.loomio.com/en/user_manual/polls/meeting_polls/index.html#time-poll)** Find when people are available.
 
 ## Settings
 

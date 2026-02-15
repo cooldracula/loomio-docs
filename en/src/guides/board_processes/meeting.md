@@ -91,7 +91,7 @@ Post the minutes in the Loomio meeting thread within a few days of the meeting a
 
 ![](poll_minutes.png#width-90)
 
-The example above uses a **Simple poll** with two options 'Accept' or 'Review'.
+The example above uses a **Choose** poll with two options 'Accept' or 'Review'.
 
 When everyone has voted and the poll closes, state an outcome so everyone knows what has happened.  
 

@@ -13,8 +13,7 @@ Loomio now includes a series of predefined proposal templates for common decisio
 The proposal templates are part of the scaffolding used to run a process. You can edit the templates to suit your particular needs, create new templates, or remove and rearrange templates to customize the experience for your organization.
 
 You will find more proposal and poll templates under the tabs:
-- Poll - Simple poll, Score poll, Dot vote, Ranked choice
-- Meeting - Time poll, Opt-in
+- Poll - Choose, Score, Allocate, Rank, Time poll
 - Settings - Proposal (classic), Gradients of Agreement, Question round
 
 The classic Loomio proposal is still available under the Settings tab. You can **Unhide** it to make available for use under the Proposals tab.
@@ -34,8 +33,7 @@ Under the Proposal tab, you will find templates for proposals commonly used in d
 Sense check is an easy way to invite feedback, questions and concerns.  Sense check can also be used in the Consent process or to test for Consensus.
 
 You will find more proposal and poll templates under the tabs:
-- Poll - Simple poll, Score poll, Dot vote and Ranked choice
-- Meeting - Time poll, Opt-in
+- Poll - Choose, Score, Allocate, Rank, Time poll
 - Settings - Proposal (classic), Gradients of Agreement, Question round
 
 ### Example
@@ -97,10 +95,10 @@ Choose the voting method you want to use.
 Show of thumbs is the voting method for proposals; Sense check, Advice, Consent, Consensus and classic Proposal.
 
 Other methods include:
-- Simple poll - single or multiple choice of options
-- Dot vote - allocate a budget of points across a list of options, where people can assign points to options however they like
-- Score poll - people can assign a score on a scale, say 1 to 10 for each option
-- Ranked choice - invite people to put options in their order of preference, first to last
+- Choose - single or multiple choice of options
+- Allocate - distribute a budget of points across options to reveal priorities
+- Score - evaluate each option on a sliding scale to measure support
+- Rank - arrange options in order of preference to find the group's ranking
 
 ### Template title and subtitle
 
