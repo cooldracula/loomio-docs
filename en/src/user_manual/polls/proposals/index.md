@@ -75,9 +75,13 @@ Build consensus for a decision you need to make, to reach an agreement that sati
 
 - Discuss and develop a proposal together
 - Include and respect everyone involved
-- Seek agreement from most people 
+- Seek agreement from most people
 
 [Read more about the Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html).
+
+**A note about Block**
+
+This template includes a Block option by default. Block isn't suitable for every group — it can be controversial or misused. If you don't use block in your decision-making process, we recommend editing the template to remove it.
 
 **Voting with the Consensus proposal**
 

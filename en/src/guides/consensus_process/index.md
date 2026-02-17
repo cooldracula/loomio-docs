@@ -82,7 +82,7 @@ Having completed the latest version of the Brand Concept document, Vivien is now
 
 Governance board members are invited to vote and approve the Brand Concept.  The board has previously agreed that proposals like this require >75% of members to vote Agree for it to pass. 
 
-The standard Consensus proposal includes the 'Block' voting option, however this can be removed if not appropriate.   
+This template includes a Block option by default. Block isn't suitable for every group — it can be controversial or misused. If you don't use block in your decision-making process, we recommend editing the template to remove it.
 
 ![](consensus_step5_proposal_2.png)
 
