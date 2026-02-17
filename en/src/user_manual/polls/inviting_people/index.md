@@ -26,7 +26,7 @@ However if the poll is within a thread, they will also be able to see the thread
 
 ### Invite a subgroup to vote
 
-It is possible to invite a subgroup of people to vote in a poll within the parent group. Please be aware of the [Delegated voters](https://help.loomio.com/en/user_manual/groups/membership/management.html#delegated-voters) feature also.
+It is possible to invite a subgroup of people to vote in a poll within the parent group. Please be aware of the [Delegated voters](https://help.loomio.com/en/user_manual/groups/membership/delegated_voters.html) feature also.
 
 ![seleting invited people only](invited-people-only.png)
 ![inviting voters subgroup](invite-voters-subgroup.png)
@@ -37,11 +37,13 @@ At the bottom of the poll are several features to help you engage with people on
 
 ![](proposal_after_start.png)
 
-### Inviting new people to the poll
+### Adding voters to the poll
 
-You can add new people to the poll after it has started.
+You can add new people to the poll at any time, including before voting opens on a scheduled poll.
 
-Click **invite**, and enter the names or the email addresses of the people you want to invite.
+Click **Add voters**, and enter the names or the email addresses of the people you want to add.
+
+If the poll has a scheduled opening time and voting has not yet opened, voters will not receive an immediate notification. Instead, they will be notified when voting opens.
 
 ### Remove people from the poll
 

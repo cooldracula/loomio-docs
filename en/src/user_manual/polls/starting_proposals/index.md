@@ -60,13 +60,23 @@ Use the pencil icon alongside the voting option to open the edit modal:
 
 ![](proposal_edit_option.png)
 
-**Closing date and time:** Select the closing date and time for your poll. 
+### Opening time
+
+By default, voting opens immediately when you create the poll. If you want to schedule voting to open at a later time, uncheck **Voting opens immediately** and select an opening date and time.
+
+This is useful to give time for discussion before voting opens, or to ensure a poll or proposal is correctly set up and scheduled to happen at the right time.
+
+When a poll has a scheduled opening time, you can add voters before voting opens. Voters will be notified when voting opens, rather than when they are added.
+
+**Notify voters when poll opens:** When checked (default), all voters will receive a notification when voting opens. Uncheck this if you want to open voting without sending notifications.
+
+**Closing date and time:** Select the closing date and time for your poll.
 
 Give sufficient time for people to vote. You could time the proposal so it closes before a meeting, or avoid closing over a weekend, so that people will receive a timely reminder. If necessary, you can close the poll early or extend the closing time.
 
-**Who can vote?** Invite everyone in the group or only specific people that you invite.  
+**Who can vote?** Invite everyone in the group or only specific people that you invite.
 
-You can later add or remove people from an ‘Invite people only’ poll.
+You can later add or remove people from an 'Invite people only' poll.
 
 ## Advanced Settings
 
