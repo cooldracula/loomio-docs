@@ -68,14 +68,36 @@ If a voter has ranked no remaining candidates, their ballot is "exhausted" and t
 
 ## Understanding results
 
-After the poll closes, results are displayed showing:
+After the poll closes, results are displayed in several sections:
 
-- **Elected candidates** highlighted with a green chip
-- **Round-by-round table** showing each candidate's vote tally at each stage
-  - Green highlight = elected in this round
-  - Red/strikethrough = eliminated in this round
-  - Faded = already elected or eliminated in a prior round
-- **Method and quota information** showing which counting method and quota were used
+### Method and quota
+
+At the top, you'll see the counting method (Scottish STV or Meek STV) and quota type (Droop or Hare) along with the quota — the number of votes a candidate needed to win a seat.
+
+### Elected candidates
+
+A summary table of the winners with five columns:
+
+| Column | Meaning |
+|--------|---------|
+| **Candidate** | The name of the elected candidate |
+| **Round elected** | Which counting round they reached the quota and won a seat. Round 1 means they won on first preferences alone; higher rounds mean they needed transferred votes from eliminated or surplus candidates. |
+| **First preferences** | How many voters ranked this candidate as their first choice. This shows a candidate's direct support before any vote transfers. |
+| **Final tally** | The candidate's vote tally at the moment they were elected (crossed the quota). Due to vote transfers, this is often higher than their first preferences. |
+| **Surplus** | How much the candidate's final tally exceeded the quota (final tally minus quota). A larger surplus means stronger support beyond what was needed to win. In Scottish STV, this surplus is redistributed to voters' next preferences. |
+
+### Tied candidates
+
+If the count results in a tie — where eliminating any of the remaining candidates would change the outcome — those candidates are shown in a separate table rather than arbitrarily choosing a winner.
+
+### Round-by-round details
+
+An expandable section showing the full counting process. Each row is a candidate and each column is a counting round, showing vote tallies at each stage:
+
+- **Green highlight** = elected in this round (reached the quota)
+- **Red/strikethrough** = eliminated in this round (had the fewest votes)
+- **Orange highlight** = tied in this round
+- **Faded** = already elected or eliminated in a prior round
 
 ## Common configurations
 
