@@ -25,7 +25,7 @@
   - [Data export](user_manual/groups/data_export/index.md)
   - [Deleting your group](user_manual/groups/deleting_archiving/index.md)
 
-- [Discussions](user_manual/threads/intro_to_threads/index.md)
+- [Discussions](user_manual/discussions/index.md)
   - [Starting a discussion](user_manual/threads/starting_threads/index.md)
   - [Notifying people](user_manual/threads/notifying_people/index.md)
   - [Using discussions](user_manual/threads/navigating_threads/index.md)
