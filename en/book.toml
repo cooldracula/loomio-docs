@@ -13,5 +13,6 @@ site-url = "/en/user_manual/"
 [output.html.redirect]
 "/user_manual/threads/index.html" = "/user_manual/discussions/index.html"
 "/user_manual/threads/intro_to_threads/index.html" = "/user_manual/discussions/index.html"
+"/user_manual/threads/starting_threads/index.html" = "/user_manual/discussions/starting_a_discussion/index.html"
 # "privacy" = "/en/policy/privacy"
 # key-concepts  -> overview
