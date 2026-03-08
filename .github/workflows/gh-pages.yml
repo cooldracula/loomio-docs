@@ -23,6 +23,7 @@ jobs:
       - run: mkdir ./public
       - run: cp -R static/* ./public/
       - run: mv ./en/book/* ./public/en/
+      - run: bash generate-sitemap.sh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
