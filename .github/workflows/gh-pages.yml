@@ -23,6 +23,8 @@ jobs:
       - run: mkdir ./public
       - run: cp -R static/* ./public/
       - run: mv ./en/book/* ./public/en/
+      - name: Fix canonical URLs (.md -> .html)
+        run: find ./public/en -name '*.html' -exec sed -i 's|canonical" href="\(.*\)\.md"|canonical" href="\1.html"|g' {} +
       - run: bash generate-sitemap.sh
 
       - name: Deploy
