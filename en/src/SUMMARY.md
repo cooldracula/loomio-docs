@@ -33,7 +33,7 @@
   - [Tasks](user_manual/discussions/tasks/index.md)
   - [Direct Discussions](user_manual/discussions/direct_discussions/index.md)
   - [Examples](user_manual/discussions/examples/index.md)
-  - [Discussion templates](user_manual/threads/templates/index.md)
+  - [Templates](user_manual/discussions/templates/index.md)
 
 - [Proposals and polls](user_manual/polls/intro_to_decisions/index.md)
   - [Proposals](user_manual/polls/proposals/index.md)
