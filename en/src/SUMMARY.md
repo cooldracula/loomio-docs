@@ -27,7 +27,7 @@
 
 - [Discussions](user_manual/discussions/index.md)
   - [Starting a discussion](user_manual/discussions/starting_a_discussion/index.md)
-  - [Notifying people](user_manual/threads/notifying_people/index.md)
+  - [Notifying people](user_manual/discussions/notifying_people/index.md)
   - [Using discussions](user_manual/threads/navigating_threads/index.md)
   - [Formatting](user_manual/threads/thread_admin/index.md)
   - [Tasks](user_manual/threads/thread_admin/tasks.md)
