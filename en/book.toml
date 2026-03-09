@@ -18,5 +18,6 @@ site-url = "/en/user_manual/"
 "/user_manual/threads/navigating_threads/index.html" = "/user_manual/discussions/using_discussions/index.html"
 "/user_manual/threads/thread_admin/index.html" = "/user_manual/discussions/formatting/index.html"
 "/user_manual/threads/thread_admin/tasks.html" = "/user_manual/discussions/tasks/index.html"
+"/user_manual/threads/invite_only/index.html" = "/user_manual/discussions/direct_discussions/index.html"
 # "privacy" = "/en/policy/privacy"
 # key-concepts  -> overview
