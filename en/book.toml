@@ -21,5 +21,6 @@ site-url = "/en/user_manual/"
 "/user_manual/threads/invite_only/index.html" = "/user_manual/discussions/direct_discussions/index.html"
 "/user_manual/threads/examples/index.html" = "/user_manual/discussions/examples/index.html"
 "/user_manual/threads/templates/index.html" = "/user_manual/discussions/templates/index.html"
+"/user_manual/threads/engaging_with_threads/index.html" = "/user_manual/discussions/engaging_with_discussions/index.html"
 # "privacy" = "/en/policy/privacy"
 # key-concepts  -> overview
