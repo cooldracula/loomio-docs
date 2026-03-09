@@ -30,8 +30,8 @@
   - [Notifying people](user_manual/discussions/notifying_people/index.md)
   - [Using  discussions](user_manual/discussions/using_discussions/index.md) 
   - [Formatting](user_manual/discussions/formatting/index.md)
-  - [Tasks](user_manual/threads/thread_admin/tasks.md)
   - [Invite only](user_manual/threads/invite_only/index.md)
+  - [Tasks](user_manual/discussions/tasks/index.md)
   - [Thread examples](user_manual/threads/examples/index.md)
   - [Discussion templates](user_manual/threads/templates/index.md)
 
