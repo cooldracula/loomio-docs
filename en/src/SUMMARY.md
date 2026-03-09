@@ -32,7 +32,7 @@
   - [Formatting](user_manual/discussions/formatting/index.md)
   - [Tasks](user_manual/discussions/tasks/index.md)
   - [Direct Discussions](user_manual/discussions/direct_discussions/index.md)
-  - [Thread examples](user_manual/threads/examples/index.md)
+  - [Examples](user_manual/discussions/examples/index.md)
   - [Discussion templates](user_manual/threads/templates/index.md)
 
 - [Proposals and polls](user_manual/polls/intro_to_decisions/index.md)
